@@ -1,0 +1,17 @@
+----- client / browser
+
+html we write
+react code we write
+bootstrap & styles we write
+
+---> HTTP <---
+
+----- server-side
+
+express (node.js underneath)
+javascript code we write
+mongodb database driver
+
+----- db
+
+mongodb
